@@ -1,0 +1,4 @@
+Adding A Project to GitHub
+Cloning A Repository, Committing, and Pushing to GitHub
+Using Show Changes and Solving Conflicts
+Creating and Managing Branches
